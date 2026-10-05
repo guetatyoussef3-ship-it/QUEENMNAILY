@@ -24,10 +24,6 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
-.queen{
-   
-    
-}
 
     
 
@@ -137,7 +133,9 @@ main {
 }
 
 .description p {
+    color: #000;
     margin-bottom: 12px;
+    
 }
 
 .text-muted {
@@ -153,6 +151,7 @@ main {
     letter-spacing: 1px;
     margin-top: 10px;
 }
+
 
 .social-icons {
     display: flex;
